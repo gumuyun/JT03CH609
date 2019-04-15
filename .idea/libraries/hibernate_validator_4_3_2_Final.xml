@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hibernate-validator-4.3.2.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/hibernate-validator-4.3.2.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jboss-logging-3.1.0.CR2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/validation-api-1.0.0.GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
